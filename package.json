@@ -164,7 +164,7 @@
     "husky": "^0.14.3",
     "in-publish": "^2.0.0",
     "is-function": "^1.0.1",
-    "isparta": "^4.0.0",
+    "isparta": "^4.1.0",
     "istanbul": "^0.4.4",
     "jsonwebtoken": "^8.0.1",
     "karma": "^2.0.0",
